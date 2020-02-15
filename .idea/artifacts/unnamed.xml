@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="archive" name="unnamed.jar">
+      <element id="module-output" name="nettytest" />
+      <element id="library" level="project" name="Maven: io.netty:netty-all:4.1.35.Final" />
+      <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.29" />
+    </root>
+  </artifact>
+</component>
