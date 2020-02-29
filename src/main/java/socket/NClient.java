@@ -41,6 +41,7 @@ public class NClient {
 
 	// 定义读取服务器数据的线程
 	private class ClientThread extends Thread {
+		@Override
 		public void run() {
 			try {
 				while (selector.select() > 0) {
